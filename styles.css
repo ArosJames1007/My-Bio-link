@@ -57,6 +57,11 @@ b{
     border-radius: 16px;
     border-color: #000;
 }
+#link a:active{
+    color: #0736FE;
+    border: 2px solid #0736FE;
+    background-color: #FFF;
+}
 @media only screen and (max-width: 600px) {
     #link{
         width: 100%;
